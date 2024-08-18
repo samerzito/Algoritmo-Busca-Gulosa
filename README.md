@@ -13,6 +13,7 @@ Entender as etapas de modelagem do problema de melhor rota entre cidades;
 ## Algoritmo
 
 Componentes de um problema 
+
 ► 1. Estado inicial; 
 
 ► 2. Estado final (objetivo); 
